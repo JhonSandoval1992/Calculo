@@ -1,0 +1,5 @@
+C:\Users\ferch\source\repos\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+C:\Users\ferch\source\repos\Calculo\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferch\source\repos\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+C:\Users\ferch\source\repos\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+C:\Users\ferch\source\repos\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
